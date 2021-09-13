@@ -27,9 +27,11 @@ requirements:
   host:
     - r-base
     - r-r6
+    - r-ooplah
   run:
     - r-base
     - r-r6
+    - r-ooplah
 
 test:
   commands:
