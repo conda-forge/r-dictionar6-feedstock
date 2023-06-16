@@ -1,11 +1,11 @@
-About r-dictionar6
-==================
+About r-dictionar6-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dictionar6-feedstock/blob/main/LICENSE.txt)
 
 Home: https://xoopR.github.io/dictionar6/, https://github.com/xoopR/dictionar6/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dictionar6-feedstock/blob/main/LICENSE.txt)
 
 Summary: Efficient object-oriented R6 dictionary capable of holding objects of any class, including R6. Typed and untyped dictionaries are provided as well as the 'usual' dictionary methods that are available in other OOP languages, for example listing keys, items, values, and methods to get/set these.
 
